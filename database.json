@@ -1,27 +1,9 @@
 {
+  "protected_resources": {
+  "users": ["GET", "POST", "PUT", "PATCH", "DELETE"],
+  "products": ["POST", "PUT", "PATCH", "DELETE"]
+  },
   "users": [
-    {
-      "id": 4,
-      "name": "Bobbette Kenway",
-      "email": "bkenway3@wiley.com",
-      "password": "bkenway3",
-      "phone": "767-354-8928",
-      "birthday": "11/14/1995",
-      "bio": "In congue. Etiam justo. Etiam pretium iaculis justo.",
-      "gender": "Female",
-      "avatar": "https://robohash.org/abesselaudantium.jpg?size=150x150&set=set1"
-    },
-    {
-      "id": 5,
-      "name": "Goober Banting",
-      "email": "gbanting4@prweb.com",
-      "password": "gbanting4",
-      "phone": "563-471-5104",
-      "birthday": "9/22/1992",
-      "bio": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-      "gender": "Male",
-      "avatar": "https://robohash.org/atqueearumquaerat.png?size=150x150&set=set1"
-    },
     {
       "id": 6,
       "name": "Roana Clail",
@@ -45,15 +27,11 @@
       "avatar": "https://robohash.org/doloresnatusaut.jpg?size=150x150&set=set1"
     },
     {
-      "id": 8,
       "name": "Jerad Adney",
-      "email": "jadney7@weebly.com",
-      "password": "jadney7",
-      "phone": "787-503-1575",
       "birthday": "1/5/2009",
-      "bio": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-      "gender": "Male",
-      "avatar": "https://robohash.org/debitiseacumque.bmp?size=150x150&set=set1"
+      "email": "jadney7@weebly.com",
+      "phone": "787-503-15756",
+      "id": 8
     },
     {
       "id": 9,
@@ -78,77 +56,15 @@
       "avatar": "https://robohash.org/estipsamalias.png?size=150x150&set=set1"
     },
     {
-      "name": "",
-      "id": 11
-    },
-    {
-      "name": "",
-      "id": 13
-    },
-    {
-      "name": "",
-      "id": 14
-    },
-    {
-      "name": "",
-      "id": 15
-    },
-    {
-      "name": "",
-      "id": 16
-    },
-    {
-      "name": "khanh",
-      "id": 17
-    },
-    {
-      "name": "khanh",
-      "birthday": "12",
-      "email": "vkhanh@123.com",
-      "phone": "321324",
-      "id": 18
-    },
-    {
-      "name": "khanh",
-      "birthday": "12",
-      "email": "vkhanh@123.com",
-      "phone": "321324",
+      "name": "dads",
+      "birthday": "asdd",
+      "email": "asdas",
+      "phone": "sdas",
       "id": 19
     },
     {
-      "name": "",
-      "birthday": "",
-      "email": "",
-      "phone": "",
-      "id": 20
-    },
-    {
-      "name": "",
-      "birthday": "",
-      "email": "",
-      "phone": "",
-      "id": 21
-    },
-    {
-      "name": "",
-      "birthday": "",
-      "email": "",
-      "phone": "",
-      "id": 22
-    },
-    {
-      "name": "",
-      "birthday": "",
-      "email": "",
-      "phone": "",
-      "id": 23
-    },
-    {
-      "name": "",
-      "birthday": "",
-      "email": "",
-      "phone": "",
-      "id": 24
+      "email": "khanh@gmail.com",
+      "password": "123456"
     }
   ],
   "products": [
