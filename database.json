@@ -63,7 +63,11 @@
       "id": 19
     },
     {
+      "id": 60,
+      "name": "khanh",
+      "birthday": "12/12/2000",
       "email": "khanh@gmail.com",
+      "phone":"411-464-4275",
       "password": "123456"
     }
   ],
