@@ -173,6 +173,7 @@
   ],
   "questions": [
     {
+        "id":1,
         "question": "In the 2012 movie, The Avengers features Captain America. What is his real name?",
         "img": "img/captain.jpeg",
         "option1": "Buck Rogers",
@@ -181,7 +182,8 @@
         "option4": "Tony Stark",
         "answer": "Steve Rogers"
     },
-    {
+    {   
+        "id":2,
         "question": "Vision is a...what?",
         "img": "img/vision.png",
         "option1": "Android",
@@ -191,6 +193,7 @@
         "answer": "Android"
     },
     {
+        "id":3,
         "question": "In the comic book series, who were the original Avengers?",
         "img": "img/Avengers1.jpeg",
         "option1": "Batman,Spider-man,Superman and Wonder Woman",
@@ -199,7 +202,8 @@
         "option4": "The Incredibles",
         "answer": "Ant-man,the Hulk,Iron Man,Thor and the Wasp"
     },
-    {
+    {   
+        "id":4
         "question": "How does Black Widow turn the Hulk back into Bruce Banner?",
         "img": "img/Black Widow.jpeg",
         "option1": "By asking politely",
