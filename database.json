@@ -203,7 +203,7 @@
         "answer": "Ant-man,the Hulk,Iron Man,Thor and the Wasp"
     },
     {   
-        "id":4
+        "id":4,
         "question": "How does Black Widow turn the Hulk back into Bruce Banner?",
         "img": "img/Black Widow.jpeg",
         "option1": "By asking politely",
